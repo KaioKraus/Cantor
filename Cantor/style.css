@@ -1,5 +1,68 @@
 *{
     margin: 0;
     padding: 0;
+    font-family: Helvetica;
+    color: aliceblue;
+}
+
+body{
+    background-color: rgb(155, 155, 155); 
     height: 100%;
+}
+
+.nome{
+    font-size: 50px;
+    text-align: center;
+    margin: 50px 0;
+    text-shadow: black 7px 7px 10px;
+}
+
+.musicas{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(101, 101, 184);
+}
+
+.titulo-letra{
+    text-align: center;
+    font-size: 30px;
+    margin: 30px 0;
+    text-shadow: black 7px 7px 10px;
+}
+
+.letra-musica{
+    width: 400px;
+    text-align: center;
+    padding: 40px 0;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+}
+
+.imagens{
+    width: 850px;
+    margin: 100px auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 30px 10px;
+}
+
+.img-cantor-1{
+   width: 820px;
+   margin-left: 15px;
+}
+
+.img-cantor-2{
+    width: 400px;
+    margin-left: 15px;
+}
+
+.img-cantor-3{
+    margin-left: 15px;  
+    margin-top: 15px;
+}
+
+.frase{
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 100px;
 }
